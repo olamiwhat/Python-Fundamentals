@@ -1,0 +1,13 @@
+print ('    *     ')
+print ('   * *    ')
+print ('  *   *   ')
+print (' *     *  ')
+print ('***   *** ')
+print ('  *   *   ')
+print ('  *   *   ')
+print ('  *****   ')
+
+print ("the boy is" + "in the garden") 
+print ("the boy is " + "in the garden") 
+print ("the boy is" + " in the garden") 
+print ("the boy is" + " " + "in the garden") 
